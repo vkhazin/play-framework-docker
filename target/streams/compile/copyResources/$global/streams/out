@@ -1,0 +1,3 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/vkhazin/Projects/Samples/play-framework-docker/conf/application.conf,/Users/vkhazin/Projects/Samples/play-framework-docker/target/scala-2.10/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/Users/vkhazin/Projects/Samples/play-framework-docker/conf/routes,/Users/vkhazin/Projects/Samples/play-framework-docker/target/scala-2.10/classes/routes)[0m
