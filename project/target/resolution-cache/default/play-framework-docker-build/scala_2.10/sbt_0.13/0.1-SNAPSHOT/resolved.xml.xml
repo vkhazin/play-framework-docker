@@ -4,7 +4,7 @@
 		module="play-framework-docker-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20151220143125"
+		publication="20151220194700"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>

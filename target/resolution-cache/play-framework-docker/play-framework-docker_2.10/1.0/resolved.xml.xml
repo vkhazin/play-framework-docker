@@ -4,7 +4,7 @@
 		module="play-framework-docker_2.10"
 		revision="1.0"
 		status="integration"
-		publication="20151220143142"
+		publication="20151220192504"
 	>
 		<description>
 		play-framework-docker

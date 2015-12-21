@@ -1,9 +1,1 @@
-[0m[[0minfo[0m] [0mPackaging /Users/vkhazin/Projects/Samples/play-framework-docker/target/scala-2.10/play-framework-docker_2.10-1.0-sources.jar ...[0m
-[0m[[0mdebug[0m] [0mInput file mappings:[0m
-[0m[[0mdebug[0m] [0m	application.conf[0m
-[0m[[0mdebug[0m] [0m	  /Users/vkhazin/Projects/Samples/play-framework-docker/conf/application.conf[0m
-[0m[[0mdebug[0m] [0m	routes[0m
-[0m[[0mdebug[0m] [0m	  /Users/vkhazin/Projects/Samples/play-framework-docker/conf/routes[0m
-[0m[[0mdebug[0m] [0m	controllers/Application.scala[0m
-[0m[[0mdebug[0m] [0m	  /Users/vkhazin/Projects/Samples/play-framework-docker/app/controllers/Application.scala[0m
-[0m[[0minfo[0m] [0mDone packaging.[0m
+[0m[[0mdebug[0m] [0mJar uptodate: /Users/vkhazin/Projects/Samples/play-framework-docker/target/scala-2.10/play-framework-docker_2.10-1.0-sources.jar[0m
