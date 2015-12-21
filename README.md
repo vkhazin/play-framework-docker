@@ -1,4 +1,3 @@
-Simple REST API in Play
------------------------
+# Simple REST API using Play Framework deployed into a container. #
 
-An activator [template](https://typesafe.com/activator/templates) for implementing Json based [REST API](https://www.playframework.com/documentation/2.3.x/ScalaJsonHttp).
+# [Detailed Instructions](https://www.linkedin.com/pulse/scala-play-restful-docker-container-vlad-khazin) #
