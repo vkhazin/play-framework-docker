@@ -1,58 +1,15 @@
 [0m[[0mdebug[0m] [0m[0m
 [0m[[0mdebug[0m] [0mInitial source changes: [0m
 [0m[[0mdebug[0m] [0m	removed:Set()[0m
-[0m[[0mdebug[0m] [0m	added: Set(/Users/vkhazin/Projects/Samples/play-framework-docker/app/controllers/Application.scala, /Users/vkhazin/Projects/Samples/play-framework-docker/target/scala-2.10/src_managed/main/routes_reverseRouting.scala, /Users/vkhazin/Projects/Samples/play-framework-docker/target/scala-2.10/src_managed/main/routes_routing.scala, /Users/vkhazin/Projects/Samples/play-framework-docker/target/scala-2.10/src_managed/main/controllers/routes.java)[0m
+[0m[[0mdebug[0m] [0m	added: Set()[0m
 [0m[[0mdebug[0m] [0m	modified: Set()[0m
 [0m[[0mdebug[0m] [0mRemoved products: Set()[0m
 [0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
 [0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
-[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/Users/vkhazin/Projects/Samples/play-framework-docker/app/controllers/Application.scala, /Users/vkhazin/Projects/Samples/play-framework-docker/target/scala-2.10/src_managed/main/routes_reverseRouting.scala, /Users/vkhazin/Projects/Samples/play-framework-docker/target/scala-2.10/src_managed/main/routes_routing.scala, /Users/vkhazin/Projects/Samples/play-framework-docker/target/scala-2.10/src_managed/main/controllers/routes.java)[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set()[0m
 [0m[[0mdebug[0m] [0m[0m
 [0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
 [0m[[0mdebug[0m] [0m	product: Set()[0m
 [0m[[0mdebug[0m] [0m	binary dep: Set()[0m
 [0m[[0mdebug[0m] [0m	external source: Set()[0m
-[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/vkhazin/Projects/Samples/play-framework-docker/app/controllers/Application.scala, /Users/vkhazin/Projects/Samples/play-framework-docker/target/scala-2.10/src_managed/main/routes_reverseRouting.scala, /Users/vkhazin/Projects/Samples/play-framework-docker/target/scala-2.10/src_managed/main/routes_routing.scala, /Users/vkhazin/Projects/Samples/play-framework-docker/target/scala-2.10/src_managed/main/controllers/routes.java)[0m
-[0m[[0mdebug[0m] [0mRecompiling all 4 sources: invalidated sources (4) exceeded 50.0% of all sources[0m
-[0m[[0minfo[0m] [0mCompiling 3 Scala sources and 1 Java source to /Users/vkhazin/Projects/Samples/play-framework-docker/target/scala-2.10/classes...[0m
-[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.4[0m
-[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.4[0m
-[0m[[0mdebug[0m] [0mRunning cached compiler 48d0bf30, interfacing (CompilerInterface) with Scala compiler version 2.10.4[0m
-[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
-[0m[[0mdebug[0m] [0m	-deprecation[0m
-[0m[[0mdebug[0m] [0m	-unchecked[0m
-[0m[[0mdebug[0m] [0m	-encoding[0m
-[0m[[0mdebug[0m] [0m	utf8[0m
-[0m[[0mdebug[0m] [0m	-bootclasspath[0m
-[0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/classes:/Users/vkhazin/.sbt/boot/scala-2.10.4/lib/scala-library.jar[0m
-[0m[[0mdebug[0m] [0m	-classpath[0m
-[0m[[0mdebug[0m] [0m	/Users/vkhazin/Projects/Samples/play-framework-docker/target/scala-2.10/classes:/Users/vkhazin/.ivy2/cache/com.typesafe.play/twirl-api_2.10/jars/twirl-api_2.10-1.0.2.jar:/Users/vkhazin/.ivy2/cache/org.apache.commons/commons-lang3/jars/commons-lang3-3.1.jar:/Users/vkhazin/.ivy2/cache/com.typesafe.play/play_2.10/jars/play_2.10-2.3.10.jar:/Users/vkhazin/.ivy2/cache/com.typesafe.play/build-link/jars/build-link-2.3.10.jar:/Users/vkhazin/.ivy2/cache/com.typesafe.play/play-exceptions/jars/play-exceptions-2.3.10.jar:/Users/vkhazin/.ivy2/cache/org.javassist/javassist/bundles/javassist-3.18.2-GA.jar:/Users/vkhazin/.ivy2/cache/com.typesafe.play/play-iteratees_2.10/jars/play-iteratees_2.10-2.3.10.jar:/Users/vkhazin/.ivy2/cache/org.scala-stm/scala-stm_2.10/jars/scala-stm_2.10-0.7.jar:/Users/vkhazin/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar:/Users/vkhazin/.ivy2/cache/com.typesafe.play/play-json_2.10/jars/play-json_2.10-2.3.10.jar:/Users/vkhazin/.ivy2/cache/com.typesafe.play/play-functional_2.10/jars/play-functional_2.10-2.3.10.jar:/Users/vkhazin/.ivy2/cache/com.typesafe.play/play-datacommons_2.10/jars/play-datacommons_2.10-2.3.10.jar:/Users/vkhazin/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.3.jar:/Users/vkhazin/.ivy2/cache/org.joda/joda-convert/jars/joda-convert-1.6.jar:/Users/vkhazin/.ivy2/cache/com.fasterxml.jackson.core/jackson-annotations/bundles/jackson-annotations-2.3.2.jar:/Users/vkhazin/.ivy2/cache/com.fasterxml.jackson.core/jackson-core/bundles/jackson-core-2.3.2.jar:/Users/vkhazin/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/bundles/jackson-databind-2.3.2.jar:/Users/vkhazin/.sbt/boot/scala-2.10.4/lib/scala-reflect.jar:/Users/vkhazin/.ivy2/cache/io.netty/netty/bundles/netty-3.9.9.Final.jar:/Users/vkhazin/.ivy2/cache/com.typesafe.netty/netty-http-pipelining/jars/netty-http-pipelining-1.1.2.jar:/Users/vkhazin/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.6.jar:/Users/vkhazin/.ivy2/cache/org.slf4j/jul-to-slf4j/jars/jul-to-slf4j-1.7.6.jar:/Users/vkhazin/.ivy2/cache/org.slf4j/jcl-over-slf4j/jars/jcl-over-slf4j-1.7.6.jar:/Users/vkhazin/.ivy2/cache/ch.qos.logback/logback-core/jars/logback-core-1.1.1.jar:/Users/vkhazin/.ivy2/cache/ch.qos.logback/logback-classic/jars/logback-classic-1.1.1.jar:/Users/vkhazin/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/jars/akka-actor_2.10-2.3.4.jar:/Users/vkhazin/.ivy2/cache/com.typesafe.akka/akka-slf4j_2.10/jars/akka-slf4j_2.10-2.3.4.jar:/Users/vkhazin/.ivy2/cache/commons-codec/commons-codec/jars/commons-codec-1.9.jar:/Users/vkhazin/.ivy2/cache/xerces/xercesImpl/jars/xercesImpl-2.11.0.jar:/Users/vkhazin/.ivy2/cache/xml-apis/xml-apis/jars/xml-apis-1.4.01.jar:/Users/vkhazin/.ivy2/cache/javax.transaction/jta/jars/jta-1.1.jar[0m
-[0m[[0mdebug[0m] [0mScala compilation took 6.471133729 s[0m
-[0m[[0mdebug[0m] [0mAttempting to call javac directly...[0m
-[0m[[0mdebug[0m] [0mcom.sun.tools.javac.Main not found with appropriate method signature; forking javac instead[0m
-[0m[[0mdebug[0m] [0mForking javac: javac @/var/folders/7d/tlrytlss2_zdh9tv7plwmz200000gn/T/sbt_5236b4c2/argfile[0m
-[0m[[0mdebug[0m] [0mjavac returned exit code: 0[0m
-[0m[[0mdebug[0m] [0mJava compilation took 1.314065417 s[0m
-[0m[[0mdebug[0m] [0mJava analysis took 0.009977259 s[0m
-[0m[[0mdebug[0m] [0mInvalidating by inheritance (transitively)...[0m
-[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/vkhazin/Projects/Samples/play-framework-docker/app/controllers/Application.scala)[0m
-[0m[[0mdebug[0m] [0mInvalidated by transitive public inheritance: Set(/Users/vkhazin/Projects/Samples/play-framework-docker/app/controllers/Application.scala)[0m
-[0m[[0mdebug[0m] [0mInvalidated by direct dependency: Set(/Users/vkhazin/Projects/Samples/play-framework-docker/target/scala-2.10/src_managed/main/routes_reverseRouting.scala, /Users/vkhazin/Projects/Samples/play-framework-docker/target/scala-2.10/src_managed/main/routes_routing.scala)[0m
-[0m[[0mdebug[0m] [0mInvalidating by inheritance (transitively)...[0m
-[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/vkhazin/Projects/Samples/play-framework-docker/target/scala-2.10/src_managed/main/routes_reverseRouting.scala)[0m
-[0m[[0mdebug[0m] [0mInvalidated by transitive public inheritance: Set(/Users/vkhazin/Projects/Samples/play-framework-docker/target/scala-2.10/src_managed/main/routes_reverseRouting.scala)[0m
-[0m[[0mdebug[0m] [0mInvalidated by direct dependency: Set()[0m
-[0m[[0mdebug[0m] [0mInvalidating by inheritance (transitively)...[0m
-[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/vkhazin/Projects/Samples/play-framework-docker/target/scala-2.10/src_managed/main/routes_routing.scala)[0m
-[0m[[0mdebug[0m] [0mInvalidated by transitive public inheritance: Set(/Users/vkhazin/Projects/Samples/play-framework-docker/target/scala-2.10/src_managed/main/routes_routing.scala)[0m
-[0m[[0mdebug[0m] [0mInvalidated by direct dependency: Set(/Users/vkhazin/Projects/Samples/play-framework-docker/target/scala-2.10/src_managed/main/routes_reverseRouting.scala)[0m
-[0m[[0mdebug[0m] [0mInvalidating by inheritance (transitively)...[0m
-[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/vkhazin/Projects/Samples/play-framework-docker/target/scala-2.10/src_managed/main/controllers/routes.java)[0m
-[0m[[0mdebug[0m] [0mInvalidated by transitive public inheritance: Set(/Users/vkhazin/Projects/Samples/play-framework-docker/target/scala-2.10/src_managed/main/controllers/routes.java)[0m
-[0m[[0mdebug[0m] [0mInvalidated by direct dependency: Set()[0m
-[0m[[0mdebug[0m] [0mNew invalidations:[0m
-[0m[[0mdebug[0m] [0m	Set()[0m
-[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
-[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
-[0m[[0mdebug[0m] [0m	Set()[0m
-[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set()[0m

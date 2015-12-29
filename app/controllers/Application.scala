@@ -12,7 +12,7 @@ object Application extends Controller {
     def echo = Action {
         Ok(Json.obj
             (
-                "name" -> Json.toJson("simple-rest-scala"),
+                "name" -> Json.toJson("play-framework-docker"),
                 "author" -> Json.toJson("Vlad Khazin"),
                 "email" -> Json.toJson("vladimir.khazin@icssolutions.ca")
             )

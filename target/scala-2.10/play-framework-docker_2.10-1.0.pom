@@ -19,18 +19,23 @@
         <dependency>
             <groupId>com.typesafe.play</groupId>
             <artifactId>twirl-api_2.10</artifactId>
-            <version>1.0.2</version>
+            <version>1.1.1</version>
         </dependency>
         <dependency>
             <groupId>com.typesafe.play</groupId>
-            <artifactId>play_2.10</artifactId>
-            <version>2.3.10</version>
+            <artifactId>play-server_2.10</artifactId>
+            <version>2.4.6</version>
         </dependency>
         <dependency>
             <groupId>com.typesafe.play</groupId>
             <artifactId>play-test_2.10</artifactId>
-            <version>2.3.10</version>
+            <version>2.4.6</version>
             <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.typesafe.play</groupId>
+            <artifactId>play-netty-server_2.10</artifactId>
+            <version>2.4.6</version>
         </dependency>
     </dependencies>
     <repositories>
@@ -38,12 +43,6 @@
             <id>typesafereleases</id>
             <name>typesafe-releases</name>
             <url>http://repo.typesafe.com/typesafe/releases/</url>
-            <layout>default</layout>
-        </repository>
-        <repository>
-            <id>TypesafeReleasesRepository</id>
-            <name>Typesafe Releases Repository</name>
-            <url>https://repo.typesafe.com/typesafe/releases/</url>
             <layout>default</layout>
         </repository>
     </repositories>

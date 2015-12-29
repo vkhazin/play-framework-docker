@@ -1,7 +1,0 @@
-New log file opened at Sun Dec 20 19:46:56 EST 2015 by 821@vkhazin
-Taking next connection to: 49862
-New client attempting to connect on port: 49863-49862
-  Address = /192.168.192.108:49862
-This client on port 49863 has uuid 85e4f6a7-4a1b-4f30-b250-0399d6e92376 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
-Connected Clients: activator-85e4f6a7-4a1b-4f30-b250-0399d6e92376
-Taking next connection to: 49862
