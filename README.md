@@ -44,12 +44,20 @@ dev    *        virtualbox   Running   tcp://192.168.99.100:2376           v1.9.
 ```
 git clone https://github.com/vkhazin/play-framework-docker.git
 ```
-Back into the browser ui for activator (if you have stopped it, re-run 'activator' from terminal window
+* Back into the browser ui for activator (if you have stopped it, re-run 'activator' from terminal window
 * Using activator browser ui 'Open existing app' in the right top corner 
 * Locate the folder where you have cloned the git repository into and 'choose' it
 * The 'choose' button is barely visible in the ui :-):
 * Using activator browser ui 'run' it to confirm the project compiles and runs
 * After the project run you should be able to access using http://localhost:9000
+* Json output in browser window should look like:
+```
+{
+    name: "play-framework-docker",
+    author: "Vlad Khazin",
+    email: "vladimir.khazin@icssolutions.ca"
+}
+```
 * Let's prepare for production: from terminal window in the project folder run: 
 ```
 activator universal:packageZipTarball
@@ -91,6 +99,14 @@ docker run -t -p 80:9000 play-framework-docker
 ip address is from 'docker-machine ls' command
 and port is from the 'docker run -t -p:80:9000 play-framework-docker' command
 ````
+* Json output in browser window should look like:
+```
+{
+    name: "play-framework-docker",
+    author: "Vlad Khazin",
+    email: "vladimir.khazin@icssolutions.ca"
+}
+```
 
 Voila!
 You have got your play framework service running in a docker container and hopefully ready to deploy 
