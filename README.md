@@ -10,6 +10,7 @@
 # What you gonna need before we start #
 (These steps are for Mac OS)
 
+* Install [Oracle JDK 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) 
 * Install [Brew](http://brew.sh/) to streamline installation of other components from command window:
 ```
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
