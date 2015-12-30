@@ -10,15 +10,15 @@
 # What you gonna need before we start #
 (These steps are for Mac OS)
 
-* Install [Brew]() to streamline installation of other components from command window:
+* Install [Brew](http://brew.sh/) to streamline installation of other components from command window:
 ```
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
-* Install [Play Framework]() from terminal window using brew:
+* Install [Play Framework](https://www.playframework.com/) from terminal window using brew:
 ```
 brew install typesafe-activator
 ````
-* Install [Docker] locally from terminal window using brew:
+* Install [Docker](https://www.docker.com/) locally from terminal window using brew:
 ```
 brew install docker
 ```
@@ -39,7 +39,7 @@ NAME ACTIVE DRIVER STATE URL SWARM DOCKER ERRORS
 dev    *        virtualbox   Running   tcp://192.168.99.100:2376           v1.9.1
 ```
 
-# Let's build Play Framework Restful  Service #
+# Let's build Play Framework Restful Service #
 * Clone repository from command window using git:
 ```
 git clone https://github.com/vkhazin/play-framework-docker.git
